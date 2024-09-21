@@ -11,3 +11,12 @@ Utilizando um editor de texto do Git.
 ## Usado por
 
 Caio. Readme.so
+
+## 🚀 Sobre mim
+No momento estou aprendendo a fazer esse arquivo de texto.
+
+## Salvando a alteração
+
+´´´bash
+ git commit -m "Cinderala Baiana"
+´´´ 
